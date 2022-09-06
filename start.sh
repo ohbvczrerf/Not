@@ -2,7 +2,7 @@
 
 # configs
 AUUID=592b75b1-8a26-44b3-828b-a83771e9624d
-CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
+CADDYIndexPage=https://github.com/ohbvczrerf/21/raw/main/comila-html.zip
 CONFIGCADDY=https://raw.githubusercontent.com/ohbvczrerf/Not/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/ohbvczrerf/Not/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
